@@ -24,7 +24,8 @@ terminal-border: "0"
   icon_height = 32
   item_icon_space = 4
   item_height = 120
-  item_spacing = 80
+  item_spacing = 40
+  width = 500
   selected_item_pixmap_style = "cardselect_*.png"
   item_pixmap_style = "cardsitem_*.png"
 }
